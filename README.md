@@ -1,2 +1,1 @@
-# Ionic
-Ionic Framework
+# IONIC INDEX DATA
