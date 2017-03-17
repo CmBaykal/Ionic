@@ -12,6 +12,6 @@ Get site index with Ionic Framework
   
     ionic run android/ios
     
-# Not
+# Note
 
  This app only works on devices
