@@ -2,9 +2,7 @@
 
 Get site index with Ionic Framework
 
-# Installation
-
-    ionic start getindexdata    
+# Usage 
   
     cordova plugin add cordova-plugin-inappbrowser
    
